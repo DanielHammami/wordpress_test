@@ -1,0 +1,1596 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Spasalon\n"
+"POT-Creation-Date: 2021-04-30 17:24-0700\n"
+"PO-Revision-Date: 2018-08-01 12:55+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:19
+msgid "Oops! Page not found"
+msgstr ""
+
+#: 404.php:21
+msgid "4"
+msgstr ""
+
+#: 404.php:23
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr ""
+
+#: 404.php:23
+msgid "Go Back"
+msgstr ""
+
+#: admin/inc/class-webriti-about-page.php:75 admin/inc/include-companion.php:42
+#: admin/inc/plugin-include-control.php:40
+msgid "Installing"
+msgstr ""
+
+#: admin/inc/class-webriti-about-page.php:76 admin/inc/include-companion.php:43
+#: admin/inc/plugin-include-control.php:41
+#: functions/customizer-notify/spasalon-customizer-notify.php:111
+msgid "Activating"
+msgstr ""
+
+#: admin/inc/class-webriti-about-page.php:77 admin/inc/include-companion.php:44
+#: admin/inc/plugin-include-control.php:42
+msgid "Error"
+msgstr ""
+
+#: admin/inc/class-webriti-about-page.php:116
+msgid "View Theme Info"
+msgstr ""
+
+#: admin/inc/class-webriti-about-page.php:126
+msgid "About Spasalon Theme"
+msgstr ""
+
+#: admin/inc/class-webriti-about-page.php:127
+#, php-format
+msgid "Welcome to %1$s %2$s"
+msgstr ""
+
+#: admin/inc/class-webriti-about-page.php:141
+#, php-format
+msgid ""
+"Spasalon theme is installed. To take full advantage of the features this "
+"theme has to offer visit our %1$s welcome page %2$s"
+msgstr ""
+
+#: admin/inc/class-webriti-about-page.php:142
+msgid "Get started with Spasalon Lite"
+msgstr ""
+
+#: admin/inc/class-webriti-about-page.php:263
+msgid "See changelog below:"
+msgstr ""
+
+#: admin/inc/class-webriti-about-page.php:315
+msgid "Getting Started"
+msgstr ""
+
+#: admin/inc/class-webriti-about-page.php:320
+#: functions/customizer/customizer_recommended_plugin.php:14
+msgid "Recommended Actions"
+msgstr ""
+
+#: admin/inc/class-webriti-about-page.php:328
+msgid "Why Upgrade to PRO?"
+msgstr ""
+
+#: admin/inc/class-webriti-about-page.php:335
+msgid "Free vs Pro"
+msgstr ""
+
+#: admin/inc/class-webriti-about-page.php:341
+msgid "Support"
+msgstr ""
+
+#: admin/inc/class-webriti-about-page.php:347 admin/tab-pages/support.php:28
+#: admin/tab-pages/support.php:30
+msgid "Changelog"
+msgstr ""
+
+#: admin/inc/class-webriti-about-page.php:425
+#, php-format
+msgid "Install %s Now"
+msgstr ""
+
+#: admin/inc/class-webriti-about-page.php:427
+#: admin/inc/include-companion.php:82
+msgid "Install & Activate"
+msgstr ""
+
+#: admin/inc/class-webriti-about-page.php:444
+#, php-format
+msgid "Activate %s Now"
+msgstr ""
+
+#: admin/inc/class-webriti-about-page.php:446
+#: functions/class-tgm-plugin-activation.php:2726
+#: functions/customizer/customizer_recommended_plugin.php:17
+msgid "Activate"
+msgstr ""
+
+#: admin/inc/class-webriti-about-page.php:449
+#: functions/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: admin/inc/class-webriti-about-page.php:559
+#: admin/inc/include-companion.php:81 admin/inc/include-companion.php:98
+#: functions.php:239
+msgid "Webriti Companion"
+msgstr ""
+
+#: admin/inc/class-webriti-about-page.php:562
+msgid ""
+"It is highly recommended that you install the Webriti Companion plugin to "
+"have access to the advance Frontpage sections and other theme features"
+msgstr ""
+
+#: admin/inc/class-webriti-about-page.php:566 functions.php:234
+msgid "Contact Form 7"
+msgstr ""
+
+#: admin/inc/class-webriti-about-page.php:569
+msgid ""
+"it is recommended that you install the Contact Form 7 plugin to show contact "
+"form on pages"
+msgstr ""
+
+#: admin/inc/include-companion.php:80
+msgid ""
+"Webriti Companion plugin is required to take advantage of this theme's "
+"features in the customizer."
+msgstr ""
+
+#: admin/inc/include-companion.php:81
+msgid "Install Webriti Companion Now"
+msgstr ""
+
+#: admin/inc/include-companion.php:97
+msgid ""
+"You have installed Webriti Companion Plugin. Activate it to take advantage "
+"of this theme's features in the customizer."
+msgstr ""
+
+#: admin/inc/include-companion.php:98
+msgid "Activate Webriti Companion now"
+msgstr ""
+
+#: admin/inc/include-companion.php:99
+msgid "Activate Now"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:13
+msgid "Features"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:18
+msgid "Frontpage Sections"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:19
+msgid "You will find a number of sections in the front page"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:23
+msgid "Page Templates Support"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:24
+msgid "Various page templates are included in SpaSalon PRO."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:28
+msgid "Custom widgets"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:29
+msgid "This theme has numerous beautifully designed custom widgets"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:33
+msgid "\"Service Content\" type Repeater control"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:34
+msgid "Add Services by using the Repeater control"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:38
+msgid "Jetpack gallery support"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:39
+msgid "Create awesome galleries with overlays"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:43 admin/tab-pages/useful_plugins.php:24
+msgid "WooCommerce support"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:44
+msgid "Create your online shop with the SpaSalon theme"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:48
+msgid "Mobile Friendly"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:49
+msgid "A responsive layout for all devices."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:53
+msgid "Products"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:54
+msgid ""
+"Categorize products by using the product templates, and show different sets "
+"of products on different pages."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:58
+msgid "Contact Form Support"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:59
+msgid "SpaSalon supports WordPress Contact Form 7 plugin. "
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:63 admin/tab-pages/useful_plugins.php:16
+msgid "SEO Friendly URL"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:64
+msgid ""
+"This feature allows you to change the custom post type slug names in the url."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:68 admin/tab-pages/useful_plugins.php:88
+msgid "Multiple Color Schemes"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:69
+msgid ""
+"Enjoy 9 preset color schemes. You can also create custom color skins without "
+"adding any code."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:73
+msgid "Google Map"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:74
+msgid ""
+"Display your shop and/or business location on your website. SpaSalon "
+"supports all Google Maps plugins that generate shortcodes."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:79
+msgid "WPML Support"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:80
+msgid ""
+"Create multilingual websites: SpaSalon supports popular plugins WPML and "
+"Polylang"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:84
+msgid "Access to demo data file"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:85
+msgid ""
+"Create an exact replica of our demo site by importing the demo data file."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:89
+msgid "Support Forum"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:90
+msgid "Get instant 24x7 support on our support forum."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:101
+msgid "SpaSalon Lite"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:105
+msgid ""
+"Banner image, Services, static products, Latest news, 4-column footer widget "
+"area"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:106
+msgid "Business Template, Full Width Template"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:107
+msgid "Support for featured image"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:108
+msgid "Simple thumbnail gallery"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:119
+msgid "On WordPress.org Support Forum"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:131
+msgid "SpaSalon PRO"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:135
+msgid ""
+"Unlimited Slides, Services, Products, Testimonials, Teams, Clients, Latest "
+"News, Gallery, Callout, Additional Section and 4-column footer widget area"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:136
+msgid ""
+"Homepage, Homepage 2, About us, Blog Left Sidebar, Blog Right Sidebar, Blog "
+"Full Width, Page Full Width, Product Page and Contact Page."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:137
+msgid ""
+"Support for thousands of Font-Awesome icons, Featured Images, and Read More "
+"button/link"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:138
+msgid "Overlay effects gallery"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:149
+msgid "Premium Support Forum"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:160
+msgid "Get SpaSalon PRO now!"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:14
+msgid "Recommended Plugins"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:17
+msgid ""
+"To take full advanctage of the theme features you need to install "
+"recommended plugins."
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:20
+msgid "Click here"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:25
+msgid "Start Customizing"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:28
+msgid "After activating recommended plugins , now you can start customization."
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:31
+msgid "Go to Customizer"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:36
+#: admin/tab-pages/getting-started.php:42 admin/tab-pages/support.php:20
+msgid "Documentation"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:39
+msgid ""
+"Browse the documention for the detailed information regarding this theme."
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:48
+msgid "spasalon Theme"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:54
+msgid "Useful Links"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:60
+msgid "Lite Demo"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:64
+msgid "PRO Demo"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:70
+msgid "Your feedback is valuable to us"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:74
+msgid "Premium Theme Details"
+msgstr ""
+
+#: admin/tab-pages/support.php:12 admin/tab-pages/support.php:14
+msgid "Contact Support"
+msgstr ""
+
+#: admin/tab-pages/support.php:13
+msgid ""
+"We want to make sure you have the best experience using spasalon theme, and "
+"that is why we have gathered all the necessary information here for you. We "
+"hope you will enjoy using spasalon theme as much as we enjoy creating great "
+"products."
+msgstr ""
+
+#: admin/tab-pages/support.php:21
+msgid ""
+"Need more details? Please check our full documentation for detailed "
+"information on how to use spasalon."
+msgstr ""
+
+#: admin/tab-pages/support.php:22
+msgid "Read full documentation"
+msgstr ""
+
+#: admin/tab-pages/support.php:29
+msgid ""
+"Want to get the gist on the latest theme changes? Just consult our changelog "
+"below to get a taste of the recent fixes and features implemented."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:11
+msgid "Why upgrade to PRO?"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:17
+msgid ""
+"This feature allows you to rename the slug from the URL allowing you to make "
+"it more SEO friendly."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:25
+msgid ""
+"It's really easy to create an online store with SpaSalon PRO: we have given "
+"extra care to its WooCommerce integration."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:33
+msgid "Multi Level Navigation"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:34
+msgid ""
+"SpaSalon features beautifully styled navigation/menu. You can create multi "
+"level menus, that is sub menus to your primary navigation."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:42
+msgid "Front page slider"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:43
+msgid ""
+"SpaSalon PRO features 2 types of sliders, and each can be shown using a "
+"different homepage template. Add any number of slides with titles, subtitles "
+"and a custom \"read more\" button."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:51
+msgid "Service Features"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:53
+msgid ""
+"The HomePage Services section is created through the Repeater control. Use "
+"the Repeater control to add content like services. You can display as many "
+"services as you want and use thousands of Font Awesome icons, custom icons, "
+"and image graphics."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:61
+msgid "Product features"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:62
+msgid ""
+"Showcase any number of product. SpaSalon provides you an option to create a "
+"product by using a product page template. If you have a number of products "
+"to show, then using this template is the answer. Display products on your "
+"homepage with carousel effects, and create products' categories, which will "
+"display all products of a category in a single place. In fact, we have coded "
+"SpaSalon so that you can create any number of different sets of products."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:70
+msgid "Latest News Section"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:71
+msgid ""
+"Commonly this section is used to display the Latest News, Announcements, and "
+"Events. This section is created through the Posts so you can show the posts "
+"from the specific category."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:78
+msgid "Team feature"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:79
+msgid ""
+"The Team features are a powerful way to display the members of your team "
+"from the Custom Post Type. Use the WBR:Team widget to show your individual "
+"team member on any sidebar area."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:89
+msgid ""
+"You get 9 predefined color skins and you can even make your own favorite "
+"color scheme using the Custom color setting in the Customizer."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:97
+msgid "Well Documented"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:98
+msgid ""
+"We provide good knowledge base articles to help you create an effective "
+"website. You can see these articles on our"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:99
+msgid "Help Section"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:107
+msgid "Custom widget "
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:108
+msgid ""
+"Personalizing your website with our custom widgets is very simple: just "
+"place them inside the sidebar, or drop them inside the content"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:117
+msgid ""
+"<p><strong> Jetpack gallery support</strong></p><p>The native WordPress "
+"image gallery displays a grid of image thumbnails. If you want to show an "
+"overlay effects on the gallery images you need to install the <a href="
+"\"https://wordpress.org/plugins/jetpack/\" target=\"_blank\">Jetpack plugin,"
+"</a> Using Jetpack, you can create four types of gallery styles, like Tiled "
+"Mosaic, Square Tiles, Circles and Tiled Columns. See the gallery looks on "
+"the<a href=\"http://webriti.com/demo/wp/spasalon/gallery/\" target=\"_blank"
+"\"> SpaSalon demo</a>.</p>"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:127
+msgid "Translation Ready"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:128
+msgid ""
+"The theme supports popular plugins WPML and Polylang. With these plugins you "
+"can translate your website in multiple languages."
+msgstr ""
+
+#: archive.php:39 category.php:39 index.php:47 search.php:40 tag.php:39
+msgid "Previous"
+msgstr ""
+
+#: archive.php:40 category.php:40 index.php:48 search.php:41 tag.php:40
+msgid "Next"
+msgstr ""
+
+#: comments.php:15
+msgid "Reply"
+msgstr ""
+
+#: comments.php:30
+msgid "at"
+msgstr ""
+
+#: comments.php:60
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:65
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:82
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:83
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:84
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:89
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:6
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:12
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:17
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"It seems we can't find what you are looking for. Perhaps searching can help."
+msgstr ""
+
+#: content.php:24 functions.php:164 functions.php:174
+#: functions/widget/wbr-news-widget.php:97 index-news.php:88
+msgid "Read More"
+msgstr ""
+
+#: content.php:27
+msgid "Page"
+msgstr ""
+
+#: functions.php:69
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:70
+msgid "Footer Menu"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: functions/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: functions/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: functions/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: functions/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: functions/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: functions/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: functions/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: functions/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:386
+#: functions/class-tgm-plugin-activation.php:827
+#: functions/class-tgm-plugin-activation.php:2533
+#: functions/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:387
+#: functions/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:388
+#: functions/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: functions/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: functions/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: functions/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:934
+#: functions/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1121
+#: functions/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: functions/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2327
+msgid "Required Update Not Available"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: functions/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: functions/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: functions/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: functions/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Updates Available <span class=\"count\">(%s)</span>"
+msgid_plural "Updates Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: functions/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: functions/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: functions/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: functions/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:3509
+#: functions/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:3509
+#: functions/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: functions/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/customizer/banner-settings.php:9
+#: functions/customizer/general-settings.php:15
+msgid "Banner settings"
+msgstr ""
+
+#: functions/customizer/banner-settings.php:14
+msgid "Category"
+msgstr ""
+
+#: functions/customizer/banner-settings.php:24
+#: functions/customizer/banner-settings.php:63
+#: functions/customizer/banner-settings.php:102
+#: functions/customizer/banner-settings.php:141
+#: functions/customizer/banner-settings.php:180
+#: functions/customizer/banner-settings.php:219
+#: functions/customizer/home-page.php:77 functions/widget/post-widget.php:67
+msgid "Title"
+msgstr ""
+
+#: functions/customizer/banner-settings.php:35
+#: functions/customizer/banner-settings.php:74
+#: functions/customizer/banner-settings.php:113
+#: functions/customizer/banner-settings.php:152
+#: functions/customizer/banner-settings.php:191
+#: functions/customizer/banner-settings.php:230
+msgid "Subtitle"
+msgstr ""
+
+#: functions/customizer/banner-settings.php:46
+#: functions/customizer/banner-settings.php:85
+#: functions/customizer/banner-settings.php:124
+#: functions/customizer/banner-settings.php:163
+#: functions/customizer/banner-settings.php:202
+#: functions/customizer/banner-settings.php:241
+#: functions/customizer/home-page.php:90
+msgid "Description"
+msgstr ""
+
+#: functions/customizer/banner-settings.php:53
+msgid "Archive"
+msgstr ""
+
+#: functions/customizer/banner-settings.php:92
+msgid "Tag"
+msgstr ""
+
+#: functions/customizer/banner-settings.php:131
+msgid "Search"
+msgstr ""
+
+#: functions/customizer/banner-settings.php:170
+msgid "404"
+msgstr ""
+
+#: functions/customizer/banner-settings.php:209
+msgid "WooCommerce"
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:13
+#: functions/customizer/customizer-pro-feature.php:17
+#: functions/customizer/customizer-pro-feature.php:21
+#: functions/customizer/customizer-pro-feature.php:25
+#: functions/customizer/customizer-pro-feature.php:29
+#: functions/customizer/customizer-pro-feature.php:33
+#: functions/customizer/customizer-pro-feature.php:37
+#: functions/customizer/customizer-pro-feature.php:41
+#: functions/customizer/customizer-pro-feature.php:45
+#: functions/customizer/customizer-pro-feature.php:49
+#: functions/customizer/customizer-pro-feature.php:53
+#: functions/customizer/customizer-pro-feature.php:57
+#: functions/customizer/customizer-pro-feature.php:61
+#: functions/customizer/customizer-pro-feature.php:65
+#: functions/customizer/customizer-pro-feature.php:69
+#: functions/customizer/customizer-pro-feature.php:73
+#: functions/customizer/customizer-pro-feature.php:77
+#: functions/customizer/customizer-pro-feature.php:81
+#: functions/customizer/customizer-pro-feature.php:85
+msgid "PRO"
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:14
+msgid "Advance Theme Style Settings"
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:18
+msgid "Page Banner Settings"
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:22
+msgid "Slider Settings"
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:26
+msgid "Product Settings"
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:30
+msgid "Testimonial Section"
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:34
+msgid "Latest News Settings"
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:38
+msgid "Team Section"
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:42
+msgid "Gallery Section"
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:46
+msgid "Client Section"
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:50
+msgid "Callout Section"
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:54
+msgid "Additional Section Settings"
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:58
+msgid "About us Page Settings"
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:62
+msgid "Service Page Settings"
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:66
+msgid "Contact Page Settings"
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:70
+msgid "Section Reordering"
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:74
+msgid "Typography Settings"
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:78
+msgid "SEO Friendly URL Settings"
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:82
+msgid "Support for WPML / Polylang"
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:86
+msgid "Quality Support"
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:89
+msgid "UPGRADE TO PRO"
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:96
+msgid "View PRO Details"
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:123
+msgid ""
+"Select among predefined color skins, you can even create yours without "
+"writing any CSS code."
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:126
+msgid ""
+"Using page banner settings manage page banner content and enable/disable "
+"page banner."
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:129
+msgid ""
+"Pro version theme comes with add multiple slides in slider and you can "
+"select the slider enable / disable option, manage slider caption color etc."
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:132
+msgid "Add multiple products and you can show product by category, etc."
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:135
+msgid ""
+"Add multiple testimonials, show all your testimonials on the frontpage, "
+"change background of testimonial section, etc."
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:138
+msgid "In Pro version you can show the latest news by category."
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:141
+msgid ""
+"Show all your team members, gallery, clients and callout details on the "
+"frontpage."
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:144
+msgid ""
+"Pro version comes with additional settings section, you can add content "
+"using widgets in this section."
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:147
+msgid "Theme comes with about-us page, service page and contact page settings."
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:150
+msgid "Theme Layout manager will helps you to rearrange the sections."
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:153
+msgid ""
+"Typography will helps you to manage custom fonts like paragraph font, menu "
+"font etc."
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:156
+msgid "You can change the URL slug using SEO friendly URL settings"
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:159
+msgid "Translation ready supporting popular plugins WPML / Polylang."
+msgstr ""
+
+#: functions/customizer/customizer-pro-feature.php:162
+msgid "Dedicated support, various widget and sidebar management."
+msgstr ""
+
+#: functions/customizer/customizer_recommended_plugin.php:10
+#, php-format
+msgid ""
+"Install and activate the %s plugin to take full advantage of all the "
+"features this theme has to offer."
+msgstr ""
+
+#: functions/customizer/customizer_recommended_plugin.php:15
+msgid "Recommended Plugin"
+msgstr ""
+
+#: functions/customizer/customizer_recommended_plugin.php:16
+msgid "Install and Activate"
+msgstr ""
+
+#: functions/customizer/customizer_recommended_plugin.php:18
+msgid "Deactivate"
+msgstr ""
+
+#: functions/customizer/general-settings.php:10
+msgid "General settings"
+msgstr ""
+
+#: functions/customizer/general-settings.php:26
+msgid "Menu Banner"
+msgstr ""
+
+#: functions/customizer/general-settings.php:30
+msgid "ON"
+msgstr ""
+
+#: functions/customizer/general-settings.php:31
+msgid "OFF"
+msgstr ""
+
+#: functions/customizer/general-settings.php:36
+msgid "201 567 89785"
+msgstr ""
+
+#: functions/customizer/general-settings.php:41
+msgid "Call us at"
+msgstr ""
+
+#: functions/customizer/general-settings.php:48
+msgid "Call us on"
+msgstr ""
+
+#: functions/customizer/general-settings.php:53
+msgid "Call us field text"
+msgstr ""
+
+#: functions/customizer/general-settings.php:60
+msgid "Footer copyright settings"
+msgstr ""
+
+#: functions/customizer/general-settings.php:72
+msgid "Show footer menu"
+msgstr ""
+
+#: functions/customizer/general-settings.php:80
+#: functions/spasalon_default_data.php:18
+msgid ""
+"Proudly powered by <a href=\"https://wordpress.org\">WordPress</a> | Theme: "
+"<a href=\"https://webriti.com\" rel=\"nofollow\">Spasalon</a> by Webriti"
+msgstr ""
+
+#: functions/customizer/general-settings.php:84
+msgid "Copyright text"
+msgstr ""
+
+#: functions/customizer/home-page.php:11
+msgid "Homepage section settings"
+msgstr ""
+
+#: functions/customizer/home-page.php:26
+msgid "Display Site Title and Tagline"
+msgstr ""
+
+#: functions/customizer/home-page.php:35
+msgid "News section"
+msgstr ""
+
+#: functions/customizer/home-page.php:48
+msgid "Enable News section"
+msgstr ""
+
+#: functions/customizer/home-page.php:60
+#: functions/widget/wbr-news-widget.php:167
+msgid "Select column layout"
+msgstr ""
+
+#: functions/customizer/home-page.php:74 functions/spasalon_default_data.php:94
+msgid "Aliquam et nulla id metus"
+msgstr ""
+
+#: functions/customizer/home-page.php:86
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua."
+msgstr ""
+
+#: functions/menu/default_menu_walker.php:23
+msgid "Home"
+msgstr ""
+
+#: functions/spasalon_default_data.php:21
+msgid "999 999 9999"
+msgstr ""
+
+#: functions/spasalon_default_data.php:22
+msgid "Aenean quis lorem"
+msgstr ""
+
+#: functions/spasalon_default_data.php:95
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr ""
+
+#: functions/widget/post-widget.php:13
+msgid "WBR : Latest Posts"
+msgstr ""
+
+#: functions/widget/post-widget.php:14
+msgid "Latest posts widget"
+msgstr ""
+
+#: functions/widget/post-widget.php:23
+msgid "Latest News"
+msgstr ""
+
+#: functions/widget/post-widget.php:72
+msgid "No posts to show"
+msgstr ""
+
+#: functions/widget/sidebars.php:11 functions/widget/sidebars.php:13
+msgid "Sidebar widget area"
+msgstr ""
+
+#: functions/widget/sidebars.php:21 functions/widget/sidebars.php:23
+msgid "Project content widget area"
+msgstr ""
+
+#: functions/widget/sidebars.php:31 functions/widget/sidebars.php:33
+msgid "News section widget area"
+msgstr ""
+
+#: functions/widget/sidebars.php:41 functions/widget/sidebars.php:43
+msgid "Footer sidebar one"
+msgstr ""
+
+#: functions/widget/sidebars.php:51 functions/widget/sidebars.php:53
+msgid "Footer sidebar two"
+msgstr ""
+
+#: functions/widget/sidebars.php:61 functions/widget/sidebars.php:63
+msgid "Footer sidebar three"
+msgstr ""
+
+#: functions/widget/sidebars.php:71 functions/widget/sidebars.php:73
+msgid "Footer sidebar four"
+msgstr ""
+
+#: functions/widget/sidebars.php:81 functions/widget/sidebars.php:83
+msgid "Woocommerce sidebar widget area"
+msgstr ""
+
+#: functions/widget/wbr-news-widget.php:23
+msgid "WBR: Recent news widget"
+msgstr ""
+
+#: functions/widget/wbr-news-widget.php:25
+msgid "To display your recent post"
+msgstr ""
+
+#: functions/widget/wbr-news-widget.php:134
+msgid "Select post category"
+msgstr ""
+
+#: functions/widget/wbr-news-widget.php:186
+msgid "Exclude post id ( like : 1,2,3 )"
+msgstr ""
+
+#: functions/widget/wbr-register-page-widget.php:22
+msgid "WBR: Page widget"
+msgstr ""
+
+#: functions/widget/wbr-register-page-widget.php:24
+msgid "Featured page item widget"
+msgstr ""
+
+#: functions/widget/wbr-register-page-widget.php:125
+msgid "Select pages"
+msgstr ""
+
+#: functions/widget/wbr-register-page-widget.php:165
+msgid "Hide featured image"
+msgstr ""
+
+#: functions/widget/wbr-register-page-widget.php:175
+msgid "Display image below title"
+msgstr ""
+
+#: header.php:14
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:84
+msgid "Toggle navigation"
+msgstr ""
+
+#: search.php:25
+#, php-format
+msgid "Search results for %s"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Spasalon"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/spasalon-lite-description/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.webriti.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Business Template"
+msgstr ""

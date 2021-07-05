@@ -1,0 +1,72 @@
+# Translation of Themes - Sipri in French (France)
+# This file is distributed under the same license as the Themes - Sipri package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-12 11:51:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Sipri\n"
+
+#. Description of the theme
+msgid "Sipri is a Modern Multipurpose Business theme for Agency, Business, Finance, Consulting, Factory, Real Estate, Construction, Cleaning Service, Startup or any other individual website due to its adaptability. It looks perfect on all modern browsers, mobile, tablets, and any device, Theme is full of customization options and settings, you can change almost everything. Sipri provides unique layouts Such as Service, Team, About, Gallery, Blog Pages, Shop Pages, Pricing Pages, Contact Page, Coming Soon, Careers Page, and many more. If you are a lover of creative designs and would like to build a very unique and professional website quickly then your search should end at Sipri. Checkout Pro Version https://burgerthemes.com/demo/pro/sipri/"
+msgstr "Sipri est un thème d’entreprise polyvalent moderne pour les agences, les affaires, la finance, le conseil, la manufacture, l’immobilier, la construction, les services de nettoyage, les startups ou tout autre site individuel en raison de son adaptabilité. Son rendu est parfait sur tous les navigateurs modernes, mobiles, tablettes et tous les appareils. Le thème est rempli d’options de personnalisation et de réglages, vous pouvez presque tout modifier. Sipri fournit des mises en page uniques pour les services, les équipes, À propos, les galeries, pages de blog, pages de boutique, pages de prix, page de contact, Prochainement, page de carrières, et bien d’autres. Si aimez les designs créatifs et que vous souhaitez construire rapidement un site unique et professionnel, alors votre recherche devrait s’arrêter sur Sipri. Consultez la version pro sur https://burgerthemes.com/demo/pro/sipri/"
+
+#. Theme Name of the theme
+msgid "Sipri"
+msgstr "Sipri"
+
+#: inc/customizer/customizer-pro/class-customize.php:76
+msgid "Get More Features in Sipri Pro"
+msgstr "Obtenez plus de fonctionnalités avec Sipri Pro"
+
+#: template-parts/sections/section-header.php:203
+msgid "Header Above Collapse"
+msgstr "En-tête au dessus du repliage"
+
+#: template-parts/sections/section-header.php:198
+msgid "Header Close Menu"
+msgstr "En-tête de fermeture de menu"
+
+#: template-parts/sections/section-header.php:189
+msgid "Menu Collaped"
+msgstr "Menu replié"
+
+#: template-parts/sections/section-header.php:133
+msgid "Search Popup Close"
+msgstr "Fermeture de popup de recherche"
+
+#: template-parts/sections/section-header.php:130
+msgid "Type To Search"
+msgstr "Saisissez votre recherche"
+
+#: template-parts/sections/section-header.php:129
+msgid "Site Search"
+msgstr "Recherche du site"
+
+#: template-parts/sections/section-header.php:124
+msgid "Search Popup"
+msgstr "Popup de recherche"
+
+#: template-parts/sections/section-header.php:105
+msgid "0"
+msgstr "0"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#. Author URI of the theme
+msgid "https://burgerthemes.com/"
+msgstr "https://burgerthemes.com/"
+
+#. Theme URI of the theme
+msgid "https://burgerthemes.com/sipri-free/"
+msgstr "https://burgerthemes.com/sipri-free/"
+
+#. Author of the theme
+msgid "burgersoftware"
+msgstr "burgersoftware"

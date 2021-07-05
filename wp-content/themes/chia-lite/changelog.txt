@@ -1,0 +1,9 @@
+= Chia Lite change log =
+
+Version 1.0.2 - May 13, 2021
+- small fix for the class
+
+Version 1.0.1 - May 5, 2021
+- small fix for the form input size on smaller screens
+
+Version 1.0 - April 30, 2021

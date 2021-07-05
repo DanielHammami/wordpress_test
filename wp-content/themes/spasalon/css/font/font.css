@@ -1,0 +1,14 @@
+
+/* Roboto Fonts */
+
+@font-face {
+    font-family: 'marketingscript';
+    src: url('marketing-script.eot');
+    src: url('marketing-script.eot?#iefix') format('embedded-opentype'),
+         url('marketing-script.ttf') format('truetype'),
+         url('marketing-script.svg#marketingscript') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

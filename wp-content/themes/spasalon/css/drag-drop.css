@@ -1,0 +1,101 @@
+.demo
+ {
+  background-color: #f22853;
+  border-color: #f22853;
+ }
+.review {
+  background-color: #82b541;
+  border-color: #1ec846;
+}
+.document{
+  background-color: #ee591f;
+  border-color: #ef9c28;
+}
+ 
+.demo, .review, .document, .service  {
+  color: #fff !important;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 0px;
+  padding: 13px 30px 14px 29px;
+  text-transform: uppercase;
+  width: 54%;
+  border-radius:2px;
+ }
+ 
+ .pro-box
+{display:block;text-align:center; margin-bottom: 0px;}
+.pro-vesrion 
+{text-align:center; margin-top:15px;}
+
+.pro-vesrion p{line-height:20px;} 
+
+.customizer_layout {
+	background-color:#ccc;
+ }
+
+ .color_scheem_active,.theme_style_active{
+	border: 1px solid #000 !important;
+    border-radius: 2px;
+ }
+ 
+ #customize-control-spa_theme_options-color_scheme_style label input[type="radio"]{
+	display:none;
+ }
+ 
+ #customize-control-spa_theme_options-color_scheme_style label img{
+	border: 1px solid transparent;
+	margin-bottom: 5px;
+    margin-right: 18px;
+ }
+ 
+ #customize-control-spa_theme_options-front_page_data label{
+	 display:none;
+ }
+ 
+ 
+.button.button-blue-secondary {
+    background: #0085ba;
+    border-color: #0073aa #006799 #006799;
+    -webkit-box-shadow: 0 1px 0 #006799;
+    box-shadow: 0 1px 0 #006799;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 0 -1px 1px #006799, 1px 0 1px #006799, 0 1px 1px #006799, -1px 0 1px #006799;
+}
+
+ .button.button-blue-secondary:focus, .button.button-blue-secondary:hover {
+    background: #0073aa;
+    border-color: #006799;
+	vertical-align: top;
+	color:#fff;
+	 text-shadow: 0 -1px 1px #006799, 1px 0 1px #006799, 0 1px 1px #006799, -1px 0 1px #006799;
+}
+
+.course{
+  background-color: #0d6db8;
+  border-color: #ef9c28;
+  color: #fff !important;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 0px;
+  padding: 13px 30px 14px 29px;
+  text-transform: uppercase;
+  width: 54%;
+  border-radius:2px;
+  text-decoration:none;
+}
+
+.pro-box
+{display:block;text-align:center; margin-bottom: 0px;}
+.pro-vesrion 
+{text-align:center; margin-top:15px;}
+
+#accordion-section-spasalon_email_course_section h3{ font-size: 14px;font-weight: 700;}
+.customize-control-widget_form .widget-control-save {
+    display: block;
+}

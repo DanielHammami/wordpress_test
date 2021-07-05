@@ -1,0 +1,169 @@
+/*
+* Author: SpaSalon Theme
+* Created by: Shahid (Scientech IT)
+* Framework: Twitter Bootstrap 3.3.6
+* Copyright (c) 2016
+* Date: 15 Feb, 2016
+* http://www.webriti.com
+* Name: default.css
+*/
+
+/* Background color */
+.navbar .navbar-nav > .open > a, 
+.navbar .navbar-nav > .open > a:hover, 
+.navbar .navbar-nav > .open > a:focus, 
+.navbar .navbar-nav > li > a:hover, 
+.navbar .navbar-nav > li > a:focus, 
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus, 
+.navbar-default .navbar-nav > .current_page_item > a, 
+.navbar-default .navbar-nav > .current_page_item > a:hover, 
+.navbar-default .navbar-nav > .current_page_item > a:focus,
+.navbar-default .navbar-nav > li > a:before, 
+#slider .topbar-detail, 
+#spa-page-header .topbar-detail, 
+a.thumb-btn:before, .flex-direction-nav a:hover::before, .direction-nav a:hover::before, 
+.more-link, 
+.more-link:hover, 
+.paginations a:before, 
+.paginations a.active, 
+.paginations span.current,
+.widget table caption, 
+.widget table tbody a, 
+.scrollup, 
+ins, 
+input[type="submit"],
+.post-thumbnail i, 
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range, table th
+ { 
+	background-color: #f22853; 
+}
+
+/* Text Color */
+.entry-title > a:hover, 
+.txt-color, .team-designation, .prt-detail h4, .prt-detail h4 a, .product-name, .product-price, .product-detail .price, 
+.widget ul li a:hover, .widget ul li a:focus, .widget table #next a:hover, .widget table #next a:focus, .widget table #prev a:hover, 
+.widget table #prev a:focus, .tagcloud a:hover, .tagcloud a:focus, .footer-sidebar .widget p a:hover, 
+.footer-links li > a:hover, .footer-links li > a:focus, .site-info p a:hover, .site-info p a:focus, 
+.datetime:hover, .datetime:focus, .reply a:hover, .reply a:focus, .phone, 
+tbody a, p a, dl dd a, a, a:hover, div[class*="wbr_project_widget"] .prt-detail h4 a { 
+	color: #f22853; 
+}
+
+/* Border Color */
+.paginations a.active, .widget table tbody a, .widget table tbody a:hover, .widget table tbody a:focus { border: 1px solid #f22853; }
+.about-img-area img { border: 7px solid #f22853; }
+.widget .widget-title, .comment-title { border-left: 4px solid #f22853; }
+.google-map iframe { border-bottom: 4px solid #f22853; }
+.footer-sidebar { border-top: 3px solid #f22853; }
+blockquote { border-left: 5px solid #f22853; }
+
+/* Topbar Detail Css */
+.topbar-detail .title { border-right: 1px solid #f05d7d; } 
+.topbar-detail p.description { color: #fcced7; }
+.addr-detail address { color: #d61841; }
+.addr-detail address > strong { color: #9c253e; }
+
+
+
+/* New Woocommerce add by PRAKASH 17-3-2016 */
+.woocommerce span.onsale {
+	background-color:#d61841;
+	color: #fff;
+}
+
+.woocommerce #respond input#submit.alt, 
+.woocommerce #respond input#submit.alt:hover, 
+.woocommerce a.button.alt, 
+.woocommerce a.button.alt:hover, 
+.woocommerce button.button.alt, 
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt,  
+.woocommerce input.button.alt:hover{
+	background-color: #d61841;
+	color: #fff;
+}
+
+.woocommerce .woocommerce-message:before {
+	content: "\e015";
+	color: #fff;
+}
+
+.woocommerce .product-name a, span.woocommerce-Price-amount.amount {
+    color: #626668;
+}
+
+.woocommerce .woocommerce-error {
+	border-top-color: #d61841;
+}
+
+.woocommerce .woocommerce-error:before {
+	content: "\e016";
+	background-color: #d61841;
+	color: #fff;
+}
+
+.woocommerce .woocommerce-error, 
+.woocommerce-page .woocommerce-error, 
+.woocommerce .woocommerce-message, 
+.woocommerce-page .woocommerce-message, 
+.woocommerce .woocommerce-info, 
+.woocommerce-page .woocommerce-info {
+	border-top: 3px solid #d61841;
+}
+
+.woocommerce .woocommerce-error:before, 
+.woocommerce-page .woocommerce-error:before, 
+.woocommerce .woocommerce-message:before, 
+.woocommerce-page .woocommerce-message:before, 
+.woocommerce .woocommerce-message:before, 
+.woocommerce-page .woocommerce-message:before, 
+.woocommerce .woocommerce-info:before, 
+.woocommerce-page .woocommerce-info:before, 
+.woocommerce .woocommerce-info:before, 
+.woocommerce-page .woocommerce-info:before, 
+.woocommerce button.button.alt.disabled, 
+.woocommerce button.button.alt.disabled:hover { 
+	background-color: #f7f6f7; 
+	color: #F22853;
+}
+
+.woocommerce form .form-row .required, 
+.woocommerce-shipping-calculator p > a:hover, 
+.woocommerce a.remove, 
+.woocommerce ul.products li.product .price, 
+.woocommerce-info a.showcoupon, 
+a.woocommerce-review-link, 
+.posted_in a, 
+ins span {
+	color: #F22853;
+}
+
+.woocommerce form .form-row.woocommerce-invalid .select2-container, 
+.woocommerce form .form-row.woocommerce-invalid input.input-text, 
+.woocommerce form .form-row.woocommerce-invalid select,
+.woocommerce form .form-row.woocommerce-validated .select2-container, 
+.woocommerce form .form-row.woocommerce-validated input.input-text, 
+.woocommerce form .form-row.woocommerce-validated select  {
+	border-color: #d61841;
+}
+
+.woocommerce .label,  
+.woocommerce .badge {
+	background-color: #d61841;
+}
+
+.woocommerce div.product p.price, .woocommerce div.product span.price {
+	color: #d61841;
+	font-size: 1.25em;
+}
+
+.woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover {
+    color: #d61841;
+}
+
+.google-map #wpgmza_map { border-bottom: 4px solid #d61841; }
+a:hover {
+	text-decoration: none;
+}

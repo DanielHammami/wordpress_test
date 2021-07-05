@@ -1,0 +1,180 @@
+/*
+Theme Name: Sipri
+Theme URI: https://burgerthemes.com/sipri-free/
+Author: burgersoftware
+Author URI: https://burgerthemes.com/
+Description: Sipri is a Modern Multipurpose Business theme for Agency, Business, Finance, Consulting, Factory, Real Estate, Construction, Cleaning Service, Startup or any other individual website due to its adaptability. It looks perfect on all modern browsers, mobile, tablets, and any device, Theme is full of customization options and settings, you can change almost everything. Sipri provides unique layouts Such as Service, Team, About, Gallery, Blog Pages, Shop Pages, Pricing Pages, Contact Page, Coming Soon, Careers Page, and many more. If you are a lover of creative designs and would like to build a very unique and professional website quickly then your search should end at Sipri. Checkout Pro Version https://burgerthemes.com/demo/pro/sipri/
+Template: cozipress
+Version: 1.0.4
+Tested up to: 5.7.2
+Requires PHP: 5.6
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: sipri
+Slug: sipri
+Tags: one-column, two-columns, left-sidebar, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, footer-widgets, full-width-template, theme-options, threaded-comments, translation-ready, blog, grid-layout, portfolio, photography
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+*/
+
+
+/* Colors */
+
+:root {
+    --bs-black:#000000;
+    --bs-blue:#0d6efd;
+    --bs-indigo:#6610f2;
+    --bs-purple:#6f42c1;
+    --bs-pink:#d63384;
+    --bs-red:#dc221c;
+    --bs-orange:#fd7e14;
+    --bs-orange-dark:#ee4a34;
+    --bs-orange-dark-light:#fae4df;
+    --bs-yellow:#ffcc00;
+    --bs-green:#28a745;
+    --bs-teal:#20c997;
+    --bs-cyan:#17a2b8;
+    --bs-white:#ffffff;
+    --bs-gray:#dedede;
+    --bs-gray-light: #f7f7f7;
+    --bs-gray-dark:#343a40;
+    --bs-primary:#CE397D;
+    --bs-primary-dark:#025ce2;
+    --bs-primary-light: #effffc;
+    --bs-primary-shadow:rgb(0 123 255 / 0.5);
+    --bs-secondary:#214462;
+    --bs-secondary-dark: #1f2120;
+    --bs-gray-500: #f2f2f2;
+    --bs-gray-500-thumb: #c2c2c2;
+    --bs-success:#28a745;
+    --bs-info:#17a2b8;
+    --bs-warning:#ffc107;
+    --bs-danger:#dc3545;
+    --bs-light:#f8f9fa;
+    --bs-dark:#343a40;
+    --bs-font-sans-serif:"Source Sans Pro",system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    --bs-font-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+    --bs-font-awesome: "FontAwesome";
+    --bs-gradient:linear-gradient(180deg,rgba(255,255,255,0.15),rgba(255,255,255,0));
+    --bs-gradient-image:linear-gradient(180deg,rgba(255,255,255,0.15),rgba(255,255,255,0));
+    --bs-shadow: 2px 5px 20px rgba(0, 0, 0, .2);
+    --bs-radius: 0.1875rem;
+    --bs-theme-radius: 6.25rem;
+    --bs-transition: all .35s cubic-bezier(.645,.045,.355,1);
+    --bs-transition-slow: all .55s cubic-bezier(.645,.045,.355,1);
+    --bs-transition-very-slow: all .75s cubic-bezier(.645,.045,.355,1);
+}
+
+
+.logo a {
+    margin: 0;
+}
+
+.homepage-3 .header-cart {
+    background: none !important;
+}
+
+/*===== CTA =====*/
+
+.cta-section {
+    color: var(--bs-white);
+    background-color: var(--bs-secondary);
+}
+
+.home-cta .cta-wrapper {
+    padding: 45px 0;
+}
+
+.cta-wrapper {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: flex-start;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+
+.cta-content,
+.cta-icon-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.cta-icon-wrap {
+    margin-right: 0.35rem;
+}
+
+.cta-img {
+    border: 1px solid rgb(255 255 255 / 0.075);
+    overflow: hidden;
+    border-radius: 100%;
+    position: relative;
+    left: -12px;
+    width: 4.375rem;
+    height: 4.375rem;
+    z-index: 0;
+}
+
+.cta-icon {
+    width: 4.375rem;
+    height: 4.375rem;
+    line-height: 4.375rem;
+    text-align: center;
+    background-color: var(--bs-primary);
+    border-radius: 100%;
+    font-size: 1.563rem;
+}
+
+.cta-content h3 {
+    line-height: 1;
+}
+
+.cta-content h5 {
+    font-weight: 500;
+}
+
+.cta-btn-wrap {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.cta-btn-wrap aside {
+    margin-left: 1.35rem;
+    padding-left: 1.35rem;
+    position: relative;
+    z-index: 0;
+    border-width: 0;
+    border-left-width: 3px;
+    border-style: dotted;
+    border-color: rgb(255 255 255 / 0.15);
+}
+
+.cta-btn-wrap aside:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -10px;
+    height: 100%;
+    border-width: inherit;
+    border-style: inherit;
+    border-color: inherit;
+}
+
+.cta-wrapper .title {
+    font-size: 1.25rem;
+    color: var(--bs-primary);
+}
+
+.cta-wrapper p.text {
+    font-size: 1.875rem;
+    font-weight: bold;
+}
+
+.cta-wrapper .text a:not(:hover):not(:focus) {
+    color: var(--bs-white);
+}

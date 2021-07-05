@@ -1,0 +1,20 @@
+2021-07-05T14:37:40+00:00 CRITICAL Uncaught WooCommerce\PayPalCommerce\ApiClient\Exception\PayPalApiException: [INVALID_REQUEST] Request is not well-formed, syntactically incorrect, or violates schema. in /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-api-client/src/Endpoint/class-partnerreferrals.php:112
+Stack trace:
+#0 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-onboarding/src/Render/class-onboardingrenderer.php(66): WooCommerce\PayPalCommerce\ApiClient\Endpoint\PartnerReferrals->signup_link()
+#1 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-onboarding/src/class-onboarding-rest-controller.php(311): WooCommerce\PayPalCommerce\Onboarding\Render\OnboardingRenderer->get_signup_link(true)
+#2 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-onboarding/src/class-onboarding-rest-controller.php(124): WooCommerce\PayPalCommerce\Onboarding\Onboarding_REST_Co dans /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-api-client/src/Endpoint/class-partnerreferrals.php à la ligne 112
+
+2021-07-05T14:38:26+00:00 CRITICAL Uncaught WooCommerce\PayPalCommerce\ApiClient\Exception\RuntimeException: Could not create token. in /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-api-client/src/Authentication/class-paypalbearer.php:122
+Stack trace:
+#0 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-api-client/src/Authentication/class-paypalbearer.php(97): WooCommerce\PayPalCommerce\ApiClient\Authentication\PayPalBearer->newBearer()
+#1 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-wc-gateway/src/Settings/class-settingslistener.php(150): WooCommerce\PayPalCommerce\ApiClient\Authentication\PayPalBearer->bearer()
+#2 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-wc-gateway/src/class-wcgatewaymodule.php(236): WooCommerce\PayPalCommerce\WcGateway\Settings\SettingsListener->listen_for_vaulting_enabled()
+#3 /Applications/MAMP/htdocs/wordpress/wp-includes/ dans /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-api-client/src/Authentication/class-paypalbearer.php à la ligne 122
+
+2021-07-05T14:50:29+00:00 CRITICAL Uncaught WooCommerce\PayPalCommerce\ApiClient\Exception\RuntimeException: Could not create token. in /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-api-client/src/Authentication/class-paypalbearer.php:122
+Stack trace:
+#0 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-api-client/src/Authentication/class-paypalbearer.php(97): WooCommerce\PayPalCommerce\ApiClient\Authentication\PayPalBearer->newBearer()
+#1 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-wc-gateway/src/Settings/class-settingslistener.php(150): WooCommerce\PayPalCommerce\ApiClient\Authentication\PayPalBearer->bearer()
+#2 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-wc-gateway/src/class-wcgatewaymodule.php(236): WooCommerce\PayPalCommerce\WcGateway\Settings\SettingsListener->listen_for_vaulting_enabled()
+#3 /Applications/MAMP/htdocs/wordpress/wp-includes/ dans /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-api-client/src/Authentication/class-paypalbearer.php à la ligne 122
+

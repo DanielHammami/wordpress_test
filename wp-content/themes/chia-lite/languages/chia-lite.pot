@@ -1,0 +1,1067 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Chia Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-30 10:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1\n"
+"X-Domain: chia-lite"
+
+#: footer.php:72
+msgid "&copy;"
+msgstr ""
+
+#. used between list items, there is a space after the comma.
+#: inc/template-tags.php:104 inc/template-tags.php:114 
+#: inc/template-tags.php:148 inc/template-tags.php:158
+msgid ", "
+msgstr ""
+
+#: comments.php:35
+msgid "1 comment"
+msgstr ""
+
+#: classes/class-chia-customize.php:161
+msgid "404 Image"
+msgstr ""
+
+#: 404.php:19 404.php:23
+msgid "404 Page"
+msgstr ""
+
+#: classes/class-chia-customize.php:148
+msgid "404 Page Image"
+msgstr ""
+
+#: classes/class-chia-customize.php:186
+msgid "404 page text"
+msgstr ""
+
+#: classes/class-chia-customize.php:173
+msgid "404 page title"
+msgstr ""
+
+#. %s: parent post link.
+#: single.php:25 single.php:65
+#, php-format
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%s</span>"
+msgstr ""
+
+#: admin/admin.php:169
+msgid "Accessibility Ready"
+msgstr ""
+
+#: admin/admin.php:26
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: classes/class-chia-customize.php:164
+msgid "Add an image to be displayed on a 404 page."
+msgstr ""
+
+#: functions.php:400
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: inc/template-functions.php:208
+msgctxt "Added to posts and pages that are missing titles"
+msgid "Untitled"
+msgstr ""
+
+#. Author of the theme
+msgid "Anariel Design"
+msgstr ""
+
+#: functions.php:207
+msgid "Black"
+msgstr ""
+
+#: inc/block-patterns.php:399
+msgctxt "Block pattern description"
+msgid ""
+"A block that display menu with background image and overlaping menu content."
+msgstr ""
+
+#: inc/block-patterns.php:297
+msgctxt "Block pattern description"
+msgid ""
+"A block with 2 columns that display about us content on left and list on the "
+"right."
+msgstr ""
+
+#: inc/block-patterns.php:64
+msgctxt "Block pattern description"
+msgid ""
+"A block with 2 columns that display overlapping two images with the text "
+"description and call to action button."
+msgstr ""
+
+#: inc/block-patterns.php:359
+msgctxt "Block pattern description"
+msgid "A block with 3 columns goals."
+msgstr ""
+
+#: inc/block-patterns.php:212
+msgctxt "Block pattern description"
+msgid "A block with cover image, title and call to action."
+msgstr ""
+
+#: inc/block-patterns.php:135
+msgctxt "Block pattern description"
+msgid "A block with welcome title and 3 columns that display circle images."
+msgstr ""
+
+#: inc/block-patterns.php:250
+msgctxt "Block pattern description"
+msgid "A cooking guide block with media text block."
+msgstr ""
+
+#: inc/block-patterns.php:36
+msgctxt "Block pattern description"
+msgid "A cover block with page title"
+msgstr ""
+
+#: admin/admin.php:179
+msgid "Blog Options"
+msgstr ""
+
+#: inc/block-styles.php:35 inc/block-styles.php:44 inc/block-styles.php:53 
+#: inc/block-styles.php:80 inc/block-styles.php:89
+msgid "Borders"
+msgstr ""
+
+#. %s author name.
+#. 1: Author name.
+#: inc/template-tags.php:49 template-parts/post/author-bio.php:16
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#. %s: list of categories.
+#: inc/template-tags.php:108 inc/template-tags.php:152
+#, php-format
+msgid "Categorized as %s"
+msgstr ""
+
+#: inc/block-patterns.php:20
+msgid "Chia"
+msgstr ""
+
+#. Name of the theme
+#: admin/admin.php:148
+msgid "Chia Lite"
+msgstr ""
+
+#: admin/admin.php:87
+msgid ""
+"Chia Lite is a modern responsive WordPress theme ideal for creating a deli "
+"or cafe website as well as a food-based blog. It is extremely easy to set up "
+"and use thanks to seamless integration with the WordPress block editor. With "
+"its fresh look, smart color options, and WooCommerce integration you will "
+"have all the tools you need to create a website your visitors will love."
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Chia Lite is a modern responsive WordPress theme ideal for creating a deli "
+"or cafe website as well as a food-based blog. It is extremely easy to set up "
+"and use thanks to seamless integration with the WordPress block editor. With "
+"its fresh look, smart color options, and WooCommerce integration you'll have "
+"all the tools you need to create a website your visitors will love."
+msgstr ""
+
+#: admin/admin.php:142
+msgid "Chia Lite vs. Chia Pro"
+msgstr ""
+
+#: admin/admin.php:149
+msgid "Chia Pro"
+msgstr ""
+
+#: classes/class-chia-customize.php:109
+msgid "Classic Header"
+msgstr ""
+
+#: classes/class-chia-customize.php:110
+msgid "Classic Header Sticky"
+msgstr ""
+
+#: admin/admin.php:128
+msgid "Click \"Customize\" to open the Customizer."
+msgstr ""
+
+#: template-parts/header/site-nav.php:19
+msgid "Close"
+msgstr ""
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr ""
+
+#. %s: comment count number.
+#: comments.php:40
+#, php-format
+msgctxt "Comments title"
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-chia-customize.php:89
+msgid "Configure your theme settings"
+msgstr ""
+
+#. %s: Name of current post.
+#: inc/template-functions.php:160
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: classes/class-chia-customize.php:118
+msgid "Copyright Settings"
+msgstr ""
+
+#: classes/class-chia-customize.php:128
+msgid "Copyright text"
+msgstr ""
+
+#: inc/block-patterns.php:209
+msgid "Cover Section"
+msgstr ""
+
+#: inc/block-patterns.php:156
+msgid "Cruelty Free"
+msgstr ""
+
+#: admin/admin.php:132
+msgid "Customize Theme"
+msgstr ""
+
+#: classes/class-chia-customize.php:255
+msgctxt "Customizer control"
+msgid "Background color"
+msgstr ""
+
+#: inc/block-styles.php:107
+msgid "Dark gray"
+msgstr ""
+
+#: functions.php:212
+msgid "Dark green"
+msgstr ""
+
+#: inc/block-patterns.php:47 inc/block-patterns.php:414
+msgid "Decoration"
+msgstr ""
+
+#: admin/admin.php:189
+msgid "Demo Content Importer"
+msgstr ""
+
+#: classes/class-chia-customize.php:225
+msgid "Disable page load animation"
+msgstr ""
+
+#: admin/admin.php:46
+msgid "Dismiss this notice."
+msgstr ""
+
+#: classes/class-chia-customize.php:80
+msgid "Display Site Title & Tagline"
+msgstr ""
+
+#: inc/block-styles.php:71
+msgid "Dividers"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers.
+#: image.php:68 image.php:93 inc/template-tags.php:92 
+#: inc/template-tags.php:135 template-parts/content/content-page.php:48
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: classes/class-chia-customize.php:187
+msgid "Enter the text for your 404 page text"
+msgstr ""
+
+#: classes/class-chia-customize.php:174
+msgid "Enter the text for your 404 page title"
+msgstr ""
+
+#: admin/admin.php:205
+msgid "Extensive Number of Custom Block Patterns"
+msgstr ""
+
+#: functions.php:163
+msgid "Extra large"
+msgstr ""
+
+#: functions.php:139
+msgid "Extra small"
+msgstr ""
+
+#: admin/admin.php:147
+msgid "Features"
+msgstr ""
+
+#: functions.php:158
+msgctxt "Font size"
+msgid "L"
+msgstr ""
+
+#: functions.php:152
+msgctxt "Font size"
+msgid "M"
+msgstr ""
+
+#: functions.php:146
+msgctxt "Font size"
+msgid "S"
+msgstr ""
+
+#: functions.php:164
+msgctxt "Font size"
+msgid "XL"
+msgstr ""
+
+#: functions.php:140
+msgctxt "Font size"
+msgid "XS"
+msgstr ""
+
+#: functions.php:170
+msgctxt "Font size"
+msgid "XXL"
+msgstr ""
+
+#: functions.php:176
+msgctxt "Font size"
+msgid "XXXL"
+msgstr ""
+
+#: functions.php:398
+msgid "Footer"
+msgstr ""
+
+#: inc/block-styles.php:62
+msgid "Frame"
+msgstr ""
+
+#: admin/admin.php:94
+msgid "Get Chia Pro &rarr;"
+msgstr ""
+
+#: admin/admin.php:104
+msgid "Get Started with"
+msgstr ""
+
+#. %s: Chia Lite theme
+#: admin/admin.php:54
+#, php-format
+msgid "Get Started with %s"
+msgstr ""
+
+#: functions.php:175
+msgid "Gigantic"
+msgstr ""
+
+#: inc/block-patterns.php:356
+msgid "Goals Section"
+msgstr ""
+
+#: inc/block-patterns.php:247
+msgid "Guide Section"
+msgstr ""
+
+#: classes/class-chia-customize.php:95 classes/class-chia-customize.php:104 
+#: admin/admin.php:174
+msgid "Header Options"
+msgstr ""
+
+#: inc/block-patterns.php:184
+msgid "Healthy Food"
+msgstr ""
+
+#: inc/block-patterns.php:61
+msgid "Hero Section"
+msgstr ""
+
+#: classes/class-chia-customize.php:139
+msgid "Hide copyright text"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://anarieldesign.com/"
+msgstr ""
+
+#. URI of the theme
+#: admin/admin.php:57
+msgid "https://www.anarieldesign.com/themes/deli-cafe-wordpress-theme/"
+msgstr ""
+
+#: functions.php:169
+msgid "Huge"
+msgstr ""
+
+#: template-parts/content/content-none.php:61
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/template-tags.php:77
+msgctxt "Label for sticky posts"
+msgid "Featured post"
+msgstr ""
+
+#: functions.php:157
+msgid "Large"
+msgstr ""
+
+#: comments.php:87
+msgid "Leave a comment"
+msgstr ""
+
+#: admin/admin.php:159
+msgid "Live Customizer"
+msgstr ""
+
+#: admin/admin.php:90
+msgid ""
+"Looking for more features, like WooCommerce support, more block patterns, "
+"header and blog options? Then you should definitely check the Pro version."
+msgstr ""
+
+#: functions.php:217
+msgid "Main Green"
+msgstr ""
+
+#: inc/block-patterns.php:294
+msgid "Meet Us Section"
+msgstr ""
+
+#: template-parts/header/site-nav.php:16
+msgid "Menu"
+msgstr ""
+
+#: inc/block-patterns.php:396
+msgid "Menu Overlaping Section"
+msgstr ""
+
+#: functions.php:227
+msgid "Mint"
+msgstr ""
+
+#: inc/template-tags.php:233
+msgid "Newer <span class=\"nav-short\">posts</span>"
+msgstr ""
+
+#: comments.php:71
+msgid "Newer comments"
+msgstr ""
+
+#: single.php:39 single.php:79
+msgid "Next post"
+msgstr ""
+
+#: functions.php:151
+msgid "Normal"
+msgstr ""
+
+#: template-parts/content/content-none.php:30
+msgid "Nothing here"
+msgstr ""
+
+#: inc/template-tags.php:244
+msgid "Older <span class=\"nav-short\">posts</span>"
+msgstr ""
+
+#: comments.php:67
+msgid "Older comments"
+msgstr ""
+
+#: inc/menu-functions.php:35
+msgid "Open menu"
+msgstr ""
+
+#: functions.php:242
+msgid "Orange"
+msgstr ""
+
+#: inc/block-styles.php:26
+msgid "Overlap"
+msgstr ""
+
+#: comments.php:62 image.php:43 template-parts/content/content.php:35 
+#: template-parts/content/content-page.php:33 
+#: template-parts/content/content-single.php:27
+msgid "Page"
+msgstr ""
+
+#. %: page number.
+#: image.php:46 template-parts/content/content.php:38 
+#: template-parts/content/content-page.php:36 
+#: template-parts/content/content-single.php:30
+msgid "Page %"
+msgstr ""
+
+#: classes/class-chia-customize.php:215
+msgid "Page Load Animation"
+msgstr ""
+
+#: classes/class-chia-customize.php:195
+msgid "Page Options"
+msgstr ""
+
+#: inc/block-patterns.php:33
+msgid "Page Title Section"
+msgstr ""
+
+#: functions.php:222
+msgid "Peach"
+msgstr ""
+
+#: functions.php:273
+msgid "peach to yellow"
+msgstr ""
+
+#: functions.php:232
+msgid "Pink"
+msgstr ""
+
+#: functions.php:293
+msgid "pink to red"
+msgstr ""
+
+#: functions.php:263
+msgid "Pink to yellow"
+msgstr ""
+
+#: inc/block-patterns.php:170
+msgid "Plant Based"
+msgstr ""
+
+#: admin/admin.php:114
+msgid ""
+"Please check the documentation to get better overview of how the theme is "
+"structured."
+msgstr ""
+
+#: inc/template-functions.php:433
+msgctxt "Post password form"
+msgid "Enter"
+msgstr ""
+
+#: inc/template-functions.php:433
+msgctxt "Post password form"
+msgid "Password"
+msgstr ""
+
+#: inc/template-functions.php:433
+msgctxt "Post password form"
+msgid "Submit"
+msgstr ""
+
+#: admin/admin.php:212
+msgid "Premium Support via HelpDesk"
+msgstr ""
+
+#: single.php:40 single.php:80
+msgid "Previous post"
+msgstr ""
+
+#: functions.php:76 template-parts/header/site-nav.php:13
+msgid "Primary menu"
+msgstr ""
+
+#: classes/class-chia-customize.php:124
+msgid ""
+"Proudly powered by WordPress. Chia Lite Theme by Anariel Design. All rights "
+"reserved"
+msgstr ""
+
+#. %s: publish date.
+#: inc/template-tags.php:29
+#, php-format
+msgid "Published %s"
+msgstr ""
+
+#. %s: parent post.
+#: image.php:59
+#, php-format
+msgid "Published in %s"
+msgstr ""
+
+#: inc/block-patterns.php:113
+msgid "Pumpkin Soup"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:43
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: functions.php:237
+msgid "Red"
+msgstr ""
+
+#: functions.php:298
+msgid "Red to pink"
+msgstr ""
+
+#: functions.php:283
+msgid "Red to yellow"
+msgstr ""
+
+#: admin/admin.php:154
+msgid "Responsive Layout"
+msgstr ""
+
+#. %s: search term.
+#: search.php:21 template-parts/content/content-none.php:22
+#, php-format
+msgid "Results for \"%s\""
+msgstr ""
+
+#: admin/admin.php:164
+msgid "RTL Support"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Rubik, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:337
+msgctxt "Rubik font: on or off"
+msgid "on"
+msgstr ""
+
+#: searchform.php:24
+msgid "Search&hellip;"
+msgstr ""
+
+#: functions.php:77 footer.php:24
+msgid "Secondary menu"
+msgstr ""
+
+#: classes/class-chia-customize.php:206
+msgid "Show Page Title"
+msgstr ""
+
+#: inc/block-patterns.php:313
+msgid "Signature"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: functions.php:145
+msgid "Small"
+msgstr ""
+
+#: template-parts/content/content-none.php:56
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:26
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: admin/admin.php:210
+msgid "Support"
+msgstr ""
+
+#: admin/admin.php:211
+msgid "Support Forum"
+msgstr ""
+
+#. %s: list of tags.
+#: inc/template-tags.php:118 inc/template-tags.php:162
+#, php-format
+msgid "Tagged %s"
+msgstr ""
+
+#: admin/admin.php:200
+msgid "Testimonials"
+msgstr ""
+
+#: admin/admin.php:49
+msgid ""
+"Thanks for choosing Chia Lite! To get started please make sure you visit our "
+"welcome page."
+msgstr ""
+
+#: admin/admin.php:111 admin/admin.php:118
+msgid "Theme Documentation"
+msgstr ""
+
+#: admin/admin.php:69
+msgid "Theme Info"
+msgstr ""
+
+#: classes/class-chia-customize.php:88 admin/admin.php:125
+msgid "Theme Options"
+msgstr ""
+
+#: admin/admin.php:83
+msgid "Theme Screenshot"
+msgstr ""
+
+#: inc/block-patterns.php:85
+#, php-format
+msgctxt "Theme starter content"
+msgid "100% bio, plant-based, sustainable and organic"
+msgstr ""
+
+#: inc/block-patterns.php:43
+msgctxt "Theme starter content"
+msgid "About Me"
+msgstr ""
+
+#: inc/block-patterns.php:368
+msgctxt "Theme starter content"
+msgid "All layouts in the Chia theme are built using WordPress block editor."
+msgstr ""
+
+#: inc/block-patterns.php:227
+msgctxt "Theme starter content"
+msgid ""
+"All layouts in the Chia theme are built using WordPress block editor. Pre-"
+"built patterns are accessible with a click of a button from the block editor."
+msgstr ""
+
+#: inc/block-patterns.php:309
+msgctxt "Theme starter content"
+msgid ""
+"All page layouts in the Chia theme are built using WordPress block editor. "
+"Chia pre-built patterns are accessible with a click of a button from the "
+"block editor. Using the built-in WordPress block editor improves the "
+"security and speed of a website. Blog and header layout options are "
+"available directly from the customizer."
+msgstr ""
+
+#: inc/block-patterns.php:142
+msgctxt "Theme starter content"
+msgid "Bio Deli &amp; Cafe"
+msgstr ""
+
+#: inc/block-patterns.php:380
+msgctxt "Theme starter content"
+msgid ""
+"Blog and header layout options are available directly from the customizer."
+msgstr ""
+
+#: inc/block-patterns.php:441
+msgctxt "Theme starter content"
+msgid "Breakfast"
+msgstr ""
+
+#: inc/block-patterns.php:326
+msgctxt "Theme starter content"
+msgid "Build pages with ease"
+msgstr ""
+
+#: inc/block-patterns.php:257
+msgctxt "Theme starter content"
+msgid "Chia Deli &amp; Cafe"
+msgstr ""
+
+#: inc/block-patterns.php:406
+msgctxt "Theme starter content"
+msgid "Chia Menu"
+msgstr ""
+
+#: inc/block-patterns.php:374
+msgctxt "Theme starter content"
+msgid ""
+"Chia pre-built patterns are accessible with a click of a button from the "
+"block editor."
+msgstr ""
+
+#: inc/block-patterns.php:305
+msgctxt "Theme starter content"
+msgid "Chia Theme"
+msgstr ""
+
+#: inc/block-patterns.php:174
+msgctxt "Theme starter content"
+msgid "Cooking Courses"
+msgstr ""
+
+#: inc/block-patterns.php:85
+msgctxt "Theme starter content"
+msgid "cooking courses, books, and free recipes"
+msgstr ""
+
+#: inc/block-patterns.php:77
+msgctxt "Theme starter content"
+msgid "Deli &amp; Cafe"
+msgstr ""
+
+#: inc/block-patterns.php:160
+msgctxt "Theme starter content"
+msgid "Deliciously Food"
+msgstr ""
+
+#: inc/block-patterns.php:334
+msgctxt "Theme starter content"
+msgid "easy to use pre-built patterns"
+msgstr ""
+
+#: inc/block-patterns.php:445 inc/block-patterns.php:467
+msgctxt "Theme starter content"
+msgid "Energy Shake with oats &amp; strawberries"
+msgstr ""
+
+#: inc/block-patterns.php:265
+msgctxt "Theme starter content"
+msgid ""
+"Enjoy locally sourced bio plant-based food and drinks in a cozy atmosphere. "
+"A journey to a more peaceful and compassionate world begins on our plates."
+msgstr ""
+
+#: inc/block-patterns.php:81 inc/block-patterns.php:146
+msgctxt "Theme starter content"
+msgid ""
+"Enjoy locally sourced bio plant-based food and drinks in a cozy atmosphere. "
+"Make a difference with every meal!"
+msgstr ""
+
+#: inc/block-patterns.php:410
+msgctxt "Theme starter content"
+msgid "Enjoy our plant-based food"
+msgstr ""
+
+#: inc/block-patterns.php:85
+msgctxt "Theme starter content"
+msgid "family-run, locally sourced, planet and animal friendly"
+msgstr ""
+
+#: inc/block-patterns.php:188
+msgctxt "Theme starter content"
+msgid "Healthy Drinks"
+msgstr ""
+
+#: inc/block-patterns.php:178
+msgctxt "Theme starter content"
+msgid ""
+"Learn to cook delicious plant-based meals with our award-winning chef Chris "
+"Noodles."
+msgstr ""
+
+#: inc/block-patterns.php:334
+msgctxt "Theme starter content"
+msgid "lite, fast, and future proof"
+msgstr ""
+
+#: inc/block-patterns.php:463
+msgctxt "Theme starter content"
+msgid "Lunch"
+msgstr ""
+
+#: inc/block-patterns.php:269
+msgctxt "Theme starter content"
+msgid "Make a difference with every meal!"
+msgstr ""
+
+#: inc/block-patterns.php:334
+msgctxt "Theme starter content"
+msgid "one-click demo import"
+msgstr ""
+
+#: inc/block-patterns.php:223
+msgctxt "Theme starter content"
+msgid "Patterns & Blocks"
+msgstr ""
+
+#: inc/block-patterns.php:192
+msgctxt "Theme starter content"
+msgid ""
+"Refresh, energize or detox your body with our selection of shakes, smoothies,"
+" and other healthy drinks."
+msgstr ""
+
+#: inc/block-patterns.php:90
+msgctxt "Theme starter content"
+msgid "See our Menu"
+msgstr ""
+
+#: inc/block-patterns.php:380
+msgctxt "Theme starter content"
+msgid ""
+"The main theme color is controlled via a color picker in the customizer. "
+"Colors of individual elements are adjustable from the editor."
+msgstr ""
+
+#: inc/block-patterns.php:445 inc/block-patterns.php:467
+msgctxt "Theme starter content"
+msgid "Tofu scrambled eggs with  salad"
+msgstr ""
+
+#: inc/block-patterns.php:374
+msgctxt "Theme starter content"
+msgid ""
+"Using the built-in WordPress block editor improves the security and speed of "
+"a website."
+msgstr ""
+
+#: inc/block-patterns.php:232
+msgctxt "Theme starter content"
+msgid "View More"
+msgstr ""
+
+#: inc/block-patterns.php:278
+msgctxt "Theme starter content"
+msgid "View our Menu"
+msgstr ""
+
+#: inc/block-patterns.php:445 inc/block-patterns.php:467
+msgctxt "Theme starter content"
+msgid "Warm porridge with fresh fruits topped with almond butter"
+msgstr ""
+
+#: inc/block-patterns.php:73 inc/block-patterns.php:219
+msgctxt "Theme starter content"
+msgid "Welcome to Chia"
+msgstr ""
+
+#: inc/block-patterns.php:164
+msgctxt "Theme starter content"
+msgid ""
+"With every plant-based meal you’re making a difference for our health, the "
+"planet and the animals."
+msgstr ""
+
+#: inc/block-patterns.php:330
+msgctxt "Theme starter content"
+msgid ""
+"Working with a WordPress theme has never been easier. Pick a pattern or a "
+"block, adjust everything to your liking, rearrange and add your own content."
+msgstr ""
+
+#: inc/block-patterns.php:445 inc/block-patterns.php:467
+msgctxt "Theme starter content"
+msgid "€12"
+msgstr ""
+
+#: inc/block-patterns.php:445 inc/block-patterns.php:467
+msgctxt "Theme starter content"
+msgid "€14"
+msgstr ""
+
+#: inc/block-patterns.php:445 inc/block-patterns.php:467
+msgctxt "Theme starter content"
+msgid "€9"
+msgstr ""
+
+#: inc/block-styles.php:98
+msgid "Thick"
+msgstr ""
+
+#: inc/template-functions.php:431
+msgid "This content is password protected. Please enter a password to view."
+msgstr ""
+
+#. %s: WordPress Version.
+#: inc/back-compat.php:42 inc/back-compat.php:61 inc/back-compat.php:86
+#, php-format
+msgid ""
+"This theme requires WordPress 5.3 or newer. You are running version %s. "
+"Please upgrade."
+msgstr ""
+
+#: admin/admin.php:184
+msgid "Top Info Bar"
+msgstr ""
+
+#: admin/admin.php:58 admin/admin.php:219
+msgid "Upgrade to Chia PRO"
+msgstr ""
+
+#: image.php:81
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#. 1: Link to authors posts. 2: Author name.
+#: template-parts/post/author-bio.php:21
+#, php-format
+msgid "View all of %2$s's posts."
+msgstr ""
+
+#: inc/block-patterns.php:252
+msgid "Warm Healthy Meal"
+msgstr ""
+
+#. %d: the number of search results.
+#: search.php:33
+#, php-format
+msgid "We found %d result for your search."
+msgid_plural "We found %d results for your search."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/block-patterns.php:132
+msgid "Welcome Section"
+msgstr ""
+
+#: admin/admin.php:69 admin/admin.php:79
+msgid "Welcome to Chia Lite"
+msgstr ""
+
+#: functions.php:252
+msgid "White"
+msgstr ""
+
+#: admin/admin.php:195
+msgid "WooCommerce Style Support"
+msgstr ""
+
+#: functions.php:635
+msgid "WPForms Lite"
+msgstr ""
+
+#: functions.php:642
+msgid "WPZoom Recipe Card"
+msgstr ""
+
+#: functions.php:247
+msgid "Yellow"
+msgstr ""
+
+#: functions.php:278
+msgid "Yellow to peach"
+msgstr ""
+
+#: functions.php:268
+msgid "Yellow to pink"
+msgstr ""
+
+#: functions.php:288
+msgid "Yellow to red"
+msgstr ""
+
+#: admin/admin.php:29
+msgid "You do not have the necessary permission to perform this action."
+msgstr ""
+
+#: inc/block-patterns.php:99
+msgid "Young Woman Smiling"
+msgstr ""
